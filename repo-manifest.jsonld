@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ray-project/travis-tracker-v2/commit/a2e4a6f2e745ba497480e69b476c3a0e98976354",
       "git:hexsha": "a2e4a6f2e745ba497480e69b476c3a0e98976354",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
